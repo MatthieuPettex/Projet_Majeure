@@ -1,4 +1,5 @@
 # img_interp.py
+# found on https://scipython.com/book/chapter-8-scipy/additional-examples/interpolation-of-an-image/
 import os
 import sys
 import numpy as np
